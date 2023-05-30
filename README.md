@@ -54,11 +54,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello_Microverse] <a name="about-project"></a>
+# 📖 Hello_Microverse <a name="about-project"></a>
 
 > This is my first project at microverse to learn how to make project, add files and main thing how to setup linter in a project.
 
-**[Hello_Microverse]** is a...
+**Hello_Microverse** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
