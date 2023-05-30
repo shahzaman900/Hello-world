@@ -58,8 +58,6 @@ After you're finished please remove all the comments and instructions!
 
 > This is my first project at microverse to learn how to make project, add files and main thing how to setup linter in a project.
 
-**Hello_Microverse** is a...
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
