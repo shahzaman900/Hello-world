@@ -61,6 +61,7 @@ After you're finished please remove all the comments and instructions!
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
+
 <details>
   <summary>HTML</summary>
 </details>
@@ -141,4 +142,4 @@ _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 **Github Profile:**
-<p align="right">(<a href="https://github.com/sheezu900">Check my github profile</a>)</p>
+<p align="left">(<a href="https://github.com/sheezu900">Check my github profile</a>)</p>
